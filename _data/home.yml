@@ -8,9 +8,6 @@ navbar_entries:
   - title: telegram
     url: https://t.me/zigindia
 
-  - title: twitter
-    url: https://twitter.com/zigblr
-
   - title: calendar
     url: https://lu.ma/zigblr
 
@@ -23,6 +20,10 @@ meetup_entries:
 footer_entries:
   - title: RSS
     url: feed.xml
+
+  - title: Twitter 
+    url: https://twitter.com/zigblr
+
 
 misc_entries:
   - title: this is an example vertical list
