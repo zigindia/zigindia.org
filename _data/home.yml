@@ -21,7 +21,7 @@ meetup_entries:
     highlight: Upcoming – 31/08/24
 
 footer_entries:
-  - title: feed
+  - title: RSS
     url: feed.xml
 
 misc_entries:
