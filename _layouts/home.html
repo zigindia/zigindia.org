@@ -3,47 +3,49 @@ layout: default
 ---
 
 <header>
-{% if site.theme_config.show_navbar == true %}
-  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
-  <div class="dashed"></div>
-{% endif %}
+	{% if site.theme_config.show_navbar == true %}
+	{% include horizontal_list.html collection=site.data.home.navbar_entries %}
+	<div class="dashed"></div>
+	{% endif %}
 
-  <div style="display: flex; align-items: center; justify-content: flex-start;">
-    <img src="https://avatars.githubusercontent.com/u/176920034?s=200&v=4" alt="Logo" style="padding-right: 10px; height: auto; max-height: 50px; margin-right: 15px; margin-left: 0;" />
-    <h1 style="margin: 0;">{{ site.title }}</h1>
-  </div>
-  
-  {% if site.theme_config.show_description == true %}
-    <p>{{ site.description }}</p>
-  {% endif %}
+	<!--<div style="display: flex; align-items: center; justify-content: flex-start;">-->
+	<!--  <img src="https://avatars.githubusercontent.com/u/176920034?s=200&v=4" alt="Logo" style="padding-right: 10px; height: auto; max-height: 50px; margin-right: 15px; margin-left: 0;" />-->
+	<!--  <h1 style="margin: 0;">{{ site.title }}</h1>-->
+	<!--</div>-->
+	<!---->
+	<!--{% if site.theme_config.show_description == true %}-->
+	<!--  <p>{{ site.description }}</p>-->
+	<!--{% endif %}-->
 </header>
 
 {{ content }}
 
 {% if site.theme_config.show_meetups == true %}
-  <h2>{{ site.theme_config.home.title_meetups }}</h2>
-  {% include card_list.html collection=site.data.home.meetup_entries %}
+<h2>{{ site.theme_config.home.title_meetups }}</h2>
+<ul class="meetups">
+	{% for item in site.data.home.meetup_entries %}
+	<li>
+		<a href="{{ item.url }}">{{ item.title }}</a>   :
+		{{item.desc}} 
+		({{item.highlight}})
+	</li>
+	{% endfor %}
+</ul>
 {% endif %}
 
 {% if site.theme_config.show_misc_list == true %}
-  <h2>{{ site.theme_config.home.title_misc_list }}</h2>
-  {% include vertical_list.html collection=site.data.home.misc_entries %}
+<h2>{{ site.theme_config.home.title_misc_list }}</h2>
+{% include vertical_list.html collection=site.data.home.misc_entries %}
 {% endif %}
 
 {% if site.theme_config.show_blog == true %}
-  <h2>{{ site.theme_config.home.title_blog }}</h2>
-  {% include post_list.html %}
+<h2>{{ site.theme_config.home.title_blog }}</h2>
+{% include post_list.html %}
 {% endif %}
-
-{% if site.theme_config.show_old_projects == true %}
-  <h2>{{ site.theme_config.home.title_old_projects }}</h2>
-  {% include card_list.html collection=site.data.home.old_project_entries %}
-{% endif %}
-
 
 {% if site.theme_config.show_footer == true %}
-  <footer>
-    <div class="dashed"></div>
-    {% include horizontal_list.html collection=site.data.home.footer_entries %}
-  </footer>
+<footer>
+	<div class="dashed"></div>
+	{% include horizontal_list.html collection=site.data.home.footer_entries %}
+</footer>
 {% endif %}

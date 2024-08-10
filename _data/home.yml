@@ -11,14 +11,14 @@ navbar_entries:
   - title: twitter
     url: https://twitter.com/zigblr
 
-  - title: luma (meetup calendar)
+  - title: calendar
     url: https://lu.ma/zigblr
 
 meetup_entries:
   - title: "Meetup #1"
     url: meetups/meetup-1
-    desc: Join us for the first Zig India meetup at Hasura Bangalore.
-    highlight: UPCOMING
+    desc: Zig India Kickoff
+    highlight: Upcoming – 31/08/24
 
 footer_entries:
   - title: feed
