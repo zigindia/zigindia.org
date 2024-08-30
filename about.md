@@ -20,7 +20,7 @@ Most of our discussions happen here.
 
 In-person meetups are held in Bengaluru.
 
-To get notified, you can follow the [twitter account](https://twitter.com/zigblr),
+To get notified, you can follow the [twitter account](https://twitter.com/zigindia),
 join [Telegram](https://t.me/zigindia), subscribe to the [RSS feed](/feed.xml),
 or check [lu.ma](https://lu.ma/zigblr).
 
