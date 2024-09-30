@@ -5,6 +5,9 @@ navbar_entries:
   - title: meetups
     url: meetups
 
+  - title: discord
+    url: https://discord.gg/gNPetS9tkr
+
   - title: telegram
     url: https://t.me/zigindia
 
