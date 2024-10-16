@@ -6,7 +6,7 @@ navbar_entries:
     url: meetups
 
   - title: discord
-    url: https://discord.gg/gNPetS9tkr
+    url: https://discord.gg/xVGCnDbwhJ
 
   - title: telegram
     url: https://t.me/zigindia
@@ -24,9 +24,8 @@ footer_entries:
   - title: RSS
     url: feed.xml
 
-  - title: Twitter 
+  - title: Twitter
     url: https://twitter.com/zigindia
-
 
 misc_entries:
   - title: this is an example vertical list
@@ -59,5 +58,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-
