@@ -15,10 +15,15 @@ navbar_entries:
     url: https://lu.ma/zigblr
 
 meetup_entries:
+  - title: "Meetup #2"
+    url: meetups/meetup-2
+    desc: October Zig Meetup
+    highlight: Upcoming - 26/10/24
+
   - title: "Meetup #1"
     url: meetups/meetup-1
     desc: Zig India Kickoff
-    highlight: Upcoming – 31/08/24
+    highlight: 31/08/24
 
 footer_entries:
   - title: RSS
