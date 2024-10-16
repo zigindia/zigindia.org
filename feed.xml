@@ -1,5 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.zigindia.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.zigindia.org/" rel="alternate" type="text/html" /><updated>2024-10-16T15:52:15+00:00</updated><id>https://www.zigindia.org/feed.xml</id><title type="html">Zig India</title><subtitle>Zig India is a group for Zig enthusiasts, systems programmers and alike to discuss everything about Zig. We host in-person meetups related to Zig.
-</subtitle><author><name>Zig India</name></author><entry><title type="html">Meetup #1</title><link href="https://www.zigindia.org/meetups/meetup-1" rel="alternate" type="text/html" title="Meetup #1" /><published>2024-08-01T00:00:00+00:00</published><updated>2024-08-01T00:00:00+00:00</updated><id>https://www.zigindia.org/meetups/meetup-1</id><content type="html" xml:base="https://www.zigindia.org/meetups/meetup-1">&lt;h1 id=&quot;zig-india-meetup-1&quot;&gt;Zig India Meetup #1&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.zigindia.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.zigindia.org/" rel="alternate" type="text/html" /><updated>2024-10-16T15:54:12+00:00</updated><id>https://www.zigindia.org/feed.xml</id><title type="html">Zig India</title><subtitle>Zig India is a group for Zig enthusiasts, systems programmers and alike to discuss everything about Zig. We host in-person meetups related to Zig.
+</subtitle><author><name>Zig India</name></author><entry><title type="html">Meetup #2</title><link href="https://www.zigindia.org/meetups/meetup-2" rel="alternate" type="text/html" title="Meetup #2" /><published>2024-10-16T00:00:00+00:00</published><updated>2024-10-16T00:00:00+00:00</updated><id>https://www.zigindia.org/meetups/meetup-2</id><content type="html" xml:base="https://www.zigindia.org/meetups/meetup-2">&lt;h1 id=&quot;zig-india-meetup-2&quot;&gt;Zig India Meetup #2&lt;/h1&gt;
+
+&lt;p&gt;Hosting the 2nd Zig and Systems programming meetup on October 26th at Dyte, Bengaluru.&lt;/p&gt;
+
+&lt;p&gt;Talk 1: &lt;a href=&quot;https://procub3r.github.io/&quot;&gt;Sriprad Potukuchi&lt;/a&gt; will cover emulation in Zig, RISC-V architecture, and the Linux kernel.&lt;/p&gt;
+
+&lt;p&gt;Talk 2: &lt;a href=&quot;https://github.com/eightnoteight&quot;&gt;Srinivas Devaki&lt;/a&gt; will talk about Hot Partitions and distributed systems.&lt;/p&gt;
+
+&lt;p&gt;To learn more about Zig, check the &lt;a href=&quot;https://ziglang.org&quot;&gt;official website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;submit-a-talk&quot;&gt;Submit a Talk!&lt;/h2&gt;
+
+&lt;p&gt;Open an issue in &lt;a href=&quot;https://github.com/zigindia/talk-proposal&quot;&gt;https://github.com/zigindia/talk-proposal&lt;/a&gt; to submit a talk proposal for this meetup!&lt;/p&gt;
+
+&lt;h2 id=&quot;location&quot;&gt;Location&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.google.com/maps/place/Dyte/@12.909905,77.6379079,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae1581d390db6f:0xf1f8935fd9f9853c!8m2!3d12.909905!4d77.6379079!16s%2Fg%2F11t3__8p6r&quot;&gt;Dyte&lt;/a&gt;, 3rd Floor, 249, 14th Main Rd, Sector 7, HSR Layout, Bengaluru, Karnataka 560102&lt;/p&gt;
+
+&lt;h2 id=&quot;register&quot;&gt;Register&lt;/h2&gt;
+
+&lt;p&gt;RSVP: &lt;a href=&quot;https://lu.ma/radhk6k1&quot;&gt;https://lu.ma/radhk6k1&lt;/a&gt;&lt;/p&gt;</content><author><name>Zig India</name></author><category term="meetup" /><summary type="html">Zig India Meetup #2</summary></entry><entry><title type="html">Meetup #1</title><link href="https://www.zigindia.org/meetups/meetup-1" rel="alternate" type="text/html" title="Meetup #1" /><published>2024-08-01T00:00:00+00:00</published><updated>2024-08-01T00:00:00+00:00</updated><id>https://www.zigindia.org/meetups/meetup-1</id><content type="html" xml:base="https://www.zigindia.org/meetups/meetup-1">&lt;h1 id=&quot;zig-india-meetup-1&quot;&gt;Zig India Meetup #1&lt;/h1&gt;
 
 &lt;p&gt;Join us for the very first Zig meetup in Bangalore.
 Zig is an up-and-coming systems programming language.&lt;/p&gt;
