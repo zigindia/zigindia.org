@@ -18,7 +18,7 @@ meetup_entries:
   - title: "Meetup #2"
     url: meetups/meetup-2
     desc: October Zig Meetup
-    highlight: Upcoming - 26/10/24
+    highlight: 26/10/24
 
   - title: "Meetup #1"
     url: meetups/meetup-1
