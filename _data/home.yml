@@ -15,6 +15,11 @@ navbar_entries:
     url: https://lu.ma/zigblr
 
 meetup_entries:
+  - title: "Meetup #3"
+    url: meetups/meetup-3
+    desc: December Zig Meetup
+    highlight: Upcoming - 29/12/24
+
   - title: "Meetup #2"
     url: meetups/meetup-2
     desc: October Zig Meetup
